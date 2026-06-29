@@ -5,6 +5,7 @@
 ## 已收藏
 - **design-md** — 创建和管理 `DESIGN.md` 文件（设计方向、tokens、视觉规则的单一真相源）。源自 Google Labs（Stitch）/ Open Design。
 - **frontend-design** — 创建独特、生产级的前端界面，避免通用 AI 审美。Anthropic 官方出品。
+- **awesome-design-md** — 70+ 知名品牌（Claude/Notion/Stripe/Linear…）的真实 `DESIGN.md` 风格库。取一份放进项目根，AI 照其生成视觉一致的 UI。VoltAgent 出品（94K⭐）。注：资源库，非 SKILL.md。
 
 ## 本地挂载（软链到 ~/.claude/skills/）
 
